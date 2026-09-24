@@ -1,15 +1,15 @@
 digraph G2 {
-    a [shape=circle];
-    b [shape=circle];
-    c [shape=circle];
-    d [shape=circle];
-    e [shape=circle];
-    f [shape=circle];
-    a -> b
-    a -> c
-    b -> d
-    c -> d
-    c -> e
-    d -> f
-    e -> f
+    A [shape = "circle"]
+    B [shape = "circle"]
+    C [shape = "circle"]
+    D [shape = "circle"]
+    E [shape = "circle"]
+    F [shape = "circle"]
+    A -> B
+    A -> C
+    B -> D
+    C -> D
+    C -> E
+    D -> F
+    E -> F
 }
